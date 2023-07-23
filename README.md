@@ -125,7 +125,6 @@ On this page you learned:
 
 ## Adding Interactivity
 
-<br>
 
 ### Responding to Events
 
