@@ -313,8 +313,6 @@ On this page you learned:
 
 ### Scaling Up with Reducer and Context
 
-## Recap[](https://react.dev/learn/scaling-up-with-reducer-and-context#recap "Link for Recap")
-
 - You can combine reducer with context to let any component read and update state above it.
 - To provide state and the dispatch function to components below:
     1. Create two contexts (for state and for dispatch functions).
