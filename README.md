@@ -328,6 +328,9 @@ On this page you learned:
 <br>
 
 
+
+## Escape Hatches
+
 ### Referencing Values with Refs
 
 - Refs are an escape hatch to hold onto values that aren’t used for rendering. You won’t need them often.
@@ -340,5 +343,3 @@ On this page you learned:
 *link: https://react.dev/learn/referencing-values-with-refs*
 
 <br>
-
-
