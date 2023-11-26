@@ -1,6 +1,5 @@
 # React recaps
-Recaps from react documentation https://react.dev/learn/state-a-components-memory#meet-your-first-hook
-
+Recaps from react documentation https://react.dev/
 ---
 
 <br>
