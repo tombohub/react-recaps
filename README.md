@@ -1,4 +1,4 @@
-# React recaps v 18.2.0
+# React recaps v18.2.0
 Recaps from react documentation https://react.dev/
 ---
 
